@@ -1,4 +1,4 @@
-# Films Recommender System (GPT-3 Integrated)
+# Films Recommender System 
 
  This is a simple content-based recommender system for films created for the DEPI project. The application is built using Streamlit and deployed on Azure App Service.
 
